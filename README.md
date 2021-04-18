@@ -1,2 +1,2 @@
 # azimuth-angle-tracker
-Azimuth Angle Tracker for Floating Solar Panels
+Azimuth Angle Tracker Project for Floating Solar Panels
